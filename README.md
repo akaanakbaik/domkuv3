@@ -306,7 +306,7 @@ Credits
 
 Created by aka with ❤️ and code.
 
-Website: https://akadev.me
+Website: https://akaa.dev
 GitHub: https://github.com/akaanakbaik
 Telegram: @akamodebaik
 

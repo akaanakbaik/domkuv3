@@ -16,7 +16,7 @@ export function Footer() {
           <div className="flex items-center gap-2">
             <span className="text-sm text-muted-foreground">{t('footer.created_by')}</span>
             <Link
-              href="https://akadev.me"
+              href="https://akaa.dev"
               target="_blank"
               rel="noopener noreferrer"
               className="text-sm font-medium text-red-600 hover:text-red-700 dark:text-red-400 dark:hover:text-red-300"

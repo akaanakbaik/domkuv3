@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   title: 'Kabox CDN - Modern File Hosting Service',
   description: 'Free, fast and secure CDN service for all your files',
   keywords: ['cdn', 'file hosting', 'url shortener', 'media sharing', 'upload'],
-  authors: [{ name: 'aka', url: 'https://akadev.me' }],
+  authors: [{ name: 'aka', url: 'https://akaa.dev' }],
   creator: 'aka',
   publisher: 'Kabox',
   robots: {
